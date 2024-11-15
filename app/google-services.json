@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "948101381850",
+    "project_id": "vanphuc-e8728",
+    "storage_bucket": "vanphuc-e8728.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948101381850:android:4e2a2f1862b243b0e06fe3",
+        "android_client_info": {
+          "package_name": "com.example.imtatechFDEV"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgyL6Kx21CfflkQkz65LAfZjJxmpHTaKs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948101381850:android:47835c5a1682584ae06fe3",
+        "android_client_info": {
+          "package_name": "com.example.imtatechFDEV"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgyL6Kx21CfflkQkz65LAfZjJxmpHTaKs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
